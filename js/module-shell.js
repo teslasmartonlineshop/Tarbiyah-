@@ -455,6 +455,7 @@
   }
 
   
+
 function handleNavigationClick(event) {
     /*
      * Jangan mengambil alih klik pada komponen
@@ -506,6 +507,7 @@ function handleNavigationClick(event) {
 
     navigateTo(pageKey);
 }
+
 
   /* =======================================================
      7. PENANDA MENU AKTIF
